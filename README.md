@@ -103,7 +103,19 @@ This is an example of how to list things you need to use the software and how to
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## Screenshots
+Responsive Design <br>
+<img src="https://i.imgur.com/MEg1i1a.png" /><br>
+Detailed Map showing Cases/Recovered/Deaths<br>
+<img src="https://i.imgur.com/cx5dZIi.png" /><br>
+<img src="https://i.imgur.com/85dIQ9e.png" /><br>
+Detailed Map and Statistics of one specific Country<br>
+<img src="https://i.imgur.com/t41pJGt.png" />
+Material Components<br>
+<img src="https://i.imgur.com/4TwFUqF.png" /><br>
+Graphs and detailed Statistics<br>
+<img src="https://i.imgur.com/HlIKRW9.png" />
+
 
 
 
