@@ -105,16 +105,12 @@ This is an example of how to list things you need to use the software and how to
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
 
 
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/jusoftdev/covid-19-tracker) for a list of proposed features (and known issues).
 
 
 
@@ -141,9 +137,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+JuSoft - [@jusoftdev](https://twitter.com/jusoftdev) - [Discord Server](http://jsft.be/discord) - support@jusoft.dev
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/jusoftdev/covid-19-tracker](https://github.com/jusoftdev/covid-19-tracker)
 
 
 
